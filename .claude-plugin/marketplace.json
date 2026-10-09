@@ -1,0 +1,12 @@
+{
+  "name": "subagents-panel",
+  "owner": { "name": "Berk Akkaya", "url": "https://cyberk.dev/" },
+  "description": "Subagents Panel: watch, search and message your Claude Code subagents from a side panel.",
+  "plugins": [
+    {
+      "name": "subagents-panel",
+      "source": "./",
+      "description": "A side panel listing this session's subagents, what each is doing now, and each one's step-by-step progress."
+    }
+  ]
+}

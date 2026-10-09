@@ -1,0 +1,11 @@
+{
+  "name": "subagents-panel",
+  "version": "1.0.0",
+  "description": "A side panel listing this session's subagents, what each is doing now, and each one's step-by-step progress.",
+  "author": { "name": "Berk Akkaya", "url": "https://cyberk.dev/" },
+  "homepage": "https://github.com/berkakkaya/subagents-panel",
+  "repository": "https://github.com/berkakkaya/subagents-panel",
+  "license": "MIT",
+  "keywords": ["subagents", "agents", "panel", "sidebar", "progress"],
+  "types": "./types/index.d.ts"
+}

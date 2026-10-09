@@ -1,0 +1,19 @@
+# Written by Claude Code each time it loads the mod: type declarations, and the tsconfig that extends them
+.claude-plugin/types/
+tsconfig.json
+
+# Local previews and scratch output
+preview/
+
+# Dependencies and tooling
+node_modules/
+*.log
+*.tsbuildinfo
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
