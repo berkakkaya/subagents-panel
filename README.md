@@ -20,7 +20,24 @@ When Claude hands work to subagents, they run out of sight. **Subagents Panel** 
 place you can watch: what it is doing right now, every step it takes, how long it has been running,
 and the report it hands back. You can even send it a message while it works.
 
-<!-- Screenshots go here. -->
+<p align="center">
+  <img src="assets/screenshots/desktop-overview.png" alt="The Subagents panel in the Claude desktop app: six agents in progress and three completed, with a status band above the prompt">
+</p>
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <img src="assets/screenshots/desktop-detail.png" alt="One agent's detail view: narration, tool calls grouped with colored icons, a message sent to the agent, and the message box">
+    </td>
+    <td width="66%" valign="top">
+      <img src="assets/screenshots/terminal.png" alt="The same panel in the Claude Code CLI, beside the conversation, with the band above the prompt">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>An agent's progress, and a message box to talk to it</sub></td>
+    <td align="center"><sub>The same panel and band in the Claude Code CLI</sub></td>
+  </tr>
+</table>
 
 ## Features
 
